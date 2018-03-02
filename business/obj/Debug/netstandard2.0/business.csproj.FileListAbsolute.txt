@@ -1,0 +1,10 @@
+C:\Users\cgalv\Documents\Personal\Projects\authorization-webapi2\business\bin\Debug\netstandard2.0\business.deps.json
+C:\Users\cgalv\Documents\Personal\Projects\authorization-webapi2\business\bin\Debug\netstandard2.0\business.dll
+C:\Users\cgalv\Documents\Personal\Projects\authorization-webapi2\business\bin\Debug\netstandard2.0\business.pdb
+C:\Users\cgalv\Documents\Personal\Projects\authorization-webapi2\business\bin\Debug\netstandard2.0\domain.dll
+C:\Users\cgalv\Documents\Personal\Projects\authorization-webapi2\business\bin\Debug\netstandard2.0\domain.pdb
+C:\Users\cgalv\Documents\Personal\Projects\authorization-webapi2\business\obj\Debug\netstandard2.0\business.csproj.CoreCompileInputs.cache
+C:\Users\cgalv\Documents\Personal\Projects\authorization-webapi2\business\obj\Debug\netstandard2.0\business.AssemblyInfoInputs.cache
+C:\Users\cgalv\Documents\Personal\Projects\authorization-webapi2\business\obj\Debug\netstandard2.0\business.AssemblyInfo.cs
+C:\Users\cgalv\Documents\Personal\Projects\authorization-webapi2\business\obj\Debug\netstandard2.0\business.dll
+C:\Users\cgalv\Documents\Personal\Projects\authorization-webapi2\business\obj\Debug\netstandard2.0\business.pdb
